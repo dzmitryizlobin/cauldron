@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="teleport_character_event.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="25.715264"
+     inkscape:cx="5.1720255"
+     inkscape:cy="9.488528"
+     inkscape:window-width="1346"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="none"
+     stroke="#8da5f3"
+     stroke-linejoin="round"
+     stroke-width="2.28571"
+     d="M 14.857145,14.857148 H 1.1428572 V 1.1428572 H 14.857145 Z"
+     id="path1"
+     style="stroke:#dd5498;stroke-width:2;stroke-dasharray:none" />
+  <path
+     sodipodi:type="star"
+     style="fill:none;fill-opacity:1;stroke:#8da5f3;stroke-width:1.34623;stroke-dasharray:none;stroke-opacity:1"
+     id="path5"
+     inkscape:flatsided="false"
+     sodipodi:sides="5"
+     sodipodi:cx="4.8220387"
+     sodipodi:cy="5.0942507"
+     sodipodi:r1="5.4158311"
+     sodipodi:r2="2.7079153"
+     sodipodi:arg1="0.61190243"
+     sodipodi:arg2="1.240221"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 9.2552034,8.2052435 5.7009935,7.655548 3.2332319,10.271791 2.6577122,6.7216708 -0.5930627,5.1831535 2.6054565,3.5387543 3.0641287,-0.02834426 5.616442,2.505481 9.1506919,1.8394101 7.5295891,5.0497994 Z"
+     inkscape:transform-center-x="0.37156418"
+     inkscape:transform-center-y="0.020029869"
+     transform="matrix(0.75679887,0,0,0.72909077,4.6005899,4.4238451)" />
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="path_behavior.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="a"
+       x2="0"
+       y1="2"
+       y2="14"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4)">
+      <stop
+         offset="0"
+         stop-color="#ff8dbc"
+         id="stop1" />
+      <stop
+         offset=".4"
+         stop-color="#7260ff"
+         id="stop2" />
+      <stop
+         offset=".6"
+         stop-color="#7260ff"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#74c9ff"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="14.854978"
+     inkscape:cx="0.67317502"
+     inkscape:cy="10.434213"
+     inkscape:window-width="1346"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="none"
+     stroke="#8da5f3"
+     stroke-linejoin="round"
+     stroke-width="2.28571"
+     d="M 14.857145,14.857148 H 1.1428572 V 1.1428572 H 14.857145 Z"
+     id="path1"
+     style="stroke:#20c997;stroke-width:2;stroke-dasharray:none" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#20c997;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4.2410027,11.511293 4.1736852,4.3083202 8.5493228,4.7122252 8.2127353,7.7415128 11.915198,8.2127353 11.242023,12.11715 Z"
+     id="path8" />
+</svg>
